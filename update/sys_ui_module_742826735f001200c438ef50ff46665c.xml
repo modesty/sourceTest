@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test3">bc2826735f001200c438ef50ff46665b</application>
+        <filter/>
+        <name>test3s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_sourcetest_test3_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-07 17:32:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>742826735f001200c438ef50ff46665c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test3s</sys_name>
+        <sys_package display_value="SourceTest" source="sn_sourcetest">01304d025f001200c438ef50ff4666b5</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SourceTest">01304d025f001200c438ef50ff4666b5</sys_scope>
+        <sys_update_name>sys_ui_module_742826735f001200c438ef50ff46665c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-07 17:32:12</sys_updated_on>
+        <table>sn_sourcetest_test3</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
